@@ -30,7 +30,7 @@ data/checkpoint.json
 .DS_Store
 Thumbs.db
 
-.env
+
 data/resume.pdf
 data/test.xlsx
 logs/
