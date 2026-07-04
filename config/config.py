@@ -82,9 +82,9 @@ RESUME_PATH = BASE_DIR / "data" / "resume.pdf"
 
 CANDIDATE = {
 
-    "name": "Madhav Sharma",
+    "name": "XXX KUMAR",
 
-    "college": "Bennett University",
+    "college": "IIT JApan",
 
     "degree": "B.Tech",
 
