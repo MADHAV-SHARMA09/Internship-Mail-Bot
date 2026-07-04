@@ -1,2 +1,39 @@
-if you want to start from new file 
-go to check point and edit last processed row to 0
+add resume and company list to data folder
+
+change config.config.py
+
+.env should have 
+######################################
+# GEMINI API KEYS
+######################################
+
+GEMINI_API_KEY_1=
+
+GEMINI_API_KEY_2=
+GEMINI_API_KEY_3=
+
+######################################
+# GMAIL
+######################################
+
+GMAIL_EMAIL=xx@gmail.com
+
+GMAIL_APP_PASSWORD= -> ask gpt how to crea gmail-app-password - use that
+
+######################################
+# MODEL
+######################################
+
+MODEL_NAME=gemini-2.5-flash 
+
+######################################
+# RETRY
+######################################
+
+MAX_RETRIES=5
+
+######################################
+# EMAIL LIMIT
+######################################
+
+EMAILS_PER_RUN=100
