@@ -29,3 +29,9 @@ data/checkpoint.json
 # OS files
 .DS_Store
 Thumbs.db
+
+.env
+data/resume.pdf
+data/test.xlsx
+logs/
+__pycache__/
